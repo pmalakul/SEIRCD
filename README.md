@@ -1,2 +1,2 @@
 # seircd
-COVID-19 Model
+Infectious Disease Modelling: COVID-19 in Thailand
